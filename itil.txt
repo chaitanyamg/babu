@@ -1,0 +1,22 @@
+itil process:
+service request
+incident
+problem ticket 
+change ticket
+
+work around :to error come agian to do permanently
+ 
+cab:change advisory board(it is useed to change some content on application when became face error,we need to explain in this team):every on 1 week
+
+
+incident: abnormal condition is called incident 
+ incident are of 5 types
+p1--it takes huge problem for application (to resolve 1hour)
+p2--it takes some low problem to compare p1 (to resolve 2 hour)
+p3-- 4 hour
+p4--6 hour
+p5--8 hour
+problem ticket:wether repeatedly causing problem we can raise a problem on ticket
+               in this task we need change some files in your application you need to raise a change ticket
+change ticket:we need change some content in your application we need to raise problem on ecab(emergency change advisory board)gr errorsr in nknown databasanted permision on that board we can change that process,after  resolving that error we update taht err
+mim

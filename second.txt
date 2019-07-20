@@ -1,0 +1,7 @@
+difference between web server and application server
+webserver :web server stored a static content pages example tools for wserver is apache iplanet etc
+application server : apllicationn server is used to store dynamic pages example tomacat jboss
+to install apcahe on rhel,to follow steps
+-->yum install httpd -y
+   to check status 
+vi /war/www/html/index.html 
